@@ -1,9 +1,9 @@
-# JMoreno_225a
+# Joseph Moreno
  
 This is my repo for BMS 225A - Data Science, My work is organized as follows:
 
-- "code" All scripts used in analysis
+- `code` All scripts used in analysis
 
-- "data" All data used for analysis
+- `data` All data used for analysis
 
-- "figures" All figured produced during analysis 
+- `figures` All figured produced during analysis 
